@@ -11,7 +11,7 @@ width="800"  height="3">
 
 </div>
 
-Dười đây là đoạn code giao diện README.md giống vầy 
+Dười đây là link website đoạn code trên
 ----------
 ```golang
 https://hunglunna.github.io/hunglunnacute/
